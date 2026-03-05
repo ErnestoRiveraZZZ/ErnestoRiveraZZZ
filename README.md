@@ -1,4 +1,4 @@
-# Hola, soy Ernesto Ezequiel Rivera Calderón 👋
+# Hola, soy Ernesto Ezequiel Rivera Calderón 👋                     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F195&width=435&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+C%23;Apasionado+por+la+tecnología+Web3" alt="Typing SVG" /></a>
 
 ## 👨‍💻 Descripción Profesional
 Soy estudiante de 6to semestre de **Ingeniería en Sistemas Computacionales** en el **TecNM Instituto Tecnológico de Tijuana**. Me apasiona la programación y la creación de herramientas interactivas. Tengo un enfoque fuerte en el desarrollo con C# y actualmente estoy expandiendo mis habilidades en el desarrollo web y la integración de nuevas tecnologías como Blockchain. Siempre estoy dispuesto a aprender y enfrentar nuevos retos para crecer como futuro ingeniero.
@@ -48,15 +48,20 @@ Soy estudiante de 6to semestre de **Ingeniería en Sistemas Computacionales** en
 ---
 📫 **¿Cómo contactarme?** l23212061@tectijuana.edu.mx - ernesto21515@gmail.com - gotzuyt@gmail.com
 
+<div align = center>
+  
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uOXF1c3lvcmp4Y2dyd2didXl5emM2YnE2c3Ixem93M2xib3J4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDPg6HNz2NfAk/giphy.gif" width="300" alt="Descripción de mi GIF">
+
+
+
+</div>
 
 
 
 
 
 
-
-
-
-
+---
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=blue&style=flat-square&label=visitas)
